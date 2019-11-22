@@ -1,0 +1,8 @@
+.sec {
+    min-height: 100vh;
+}
+
+#para {
+    background: greenyellow;
+    font-weight: bolder;
+}
