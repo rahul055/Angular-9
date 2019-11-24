@@ -30,3 +30,15 @@ body {
     height: 3px;
     margin: 0 auto;
 }
+
+.height-80 {
+    min-height: 80vh;
+}
+
+.about-picture {
+    background: url(../img/pexels-photo-.jpeg)center/cover no-repeat fixed;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; */
+}
