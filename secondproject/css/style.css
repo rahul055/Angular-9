@@ -1,0 +1,32 @@
+.sec {
+    min-height: 100vh;
+}
+
+#para {
+    background: greenyellow;
+    font-weight: bolder;
+}
+
+#codek {
+    font-weight: 500;
+}
+
+.mycolor {
+    background: #ACE4AA;
+}
+
+.height {
+    min-height: 100vh;
+}
+
+body {
+    font-family: 'Arvo', serif;
+
+}
+
+.underline-title {
+
+    width: 250px;
+    height: 3px;
+    margin: 0 auto;
+}
